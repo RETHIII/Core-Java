@@ -1,0 +1,18 @@
+Question no : 1
+
+get the input for variable Name and Age and print it  
+
+Question no : 2
+
+Get the Input for variable Name, Age and Address and print it 
+
+Question no : 3
+
+Get input for 3 variables a,b,c Multiply all the variable and store in d then 
+add all the variable and store in e then divide d by e 
+
+Question no : 4 
+
+Get input 3 variable Name, Score, Department , let the User to enter the score for 100 marks you convert it for 10 and print it 
+
+answers are the Below Files 
